@@ -1,6 +1,6 @@
 # Machine_Learning_Project
 
-This project aims to test and find a machine learning model that effectively predicts the Stock price movement based on its technical indicators. It includes data retrieval, preprocessing, exploratory data analysis, model specification, model testing and evaluation. 
+This project aims to develop and evaluate machine learning models for predicting stock price movements based on technical indicators. It encompasses various stages including data retrieval, preprocessing, exploratory data analysis, model specification, testing, and evaluation.
 
 ## Programs and programming languages
 - Python
